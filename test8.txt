@@ -1,0 +1,1 @@
+test 8. I saw git-credential-manager.exe running in Services in Task Manager and I pressed End Task. Now I am testing to see if I can push without authentication.
