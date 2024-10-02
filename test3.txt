@@ -1,0 +1,1 @@
+test 3. I removed the repo using git remote remove origin (the repo was in my remote.origin.url and remote.origin.fetch). trying to see if i can trigger the pop up login to happen.
